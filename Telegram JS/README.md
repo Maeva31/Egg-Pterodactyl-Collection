@@ -117,3 +117,9 @@ AUTO_UPDATE=1
 GIT_ADDRESS=https://github.com/username/mon-projet
 BRANCH=main
 NODE_PACKAGES=discord.js dotenv
+
+# Auteur
+- MaEvA  
+  - [page GitHub](https://github.com/Maeva31)
+  - [Discord](https://discord.gg/bJ4UjhjUDP)
+  - [Site Personnel](https://maevakonnect.fr)
