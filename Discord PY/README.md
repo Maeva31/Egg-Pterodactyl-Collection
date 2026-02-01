@@ -15,7 +15,7 @@
 - Vous êtes libre de contribuer au modèle de bot et au fichier JSON de l’egg via une pull request, à condition de respecter le style de code du projet.
 
 # Auteur
-- Max Xie  
+- MaEvA  
   - [page GitHub](https://github.com/Maeva31)  
   - [site personnel](https://www.maevakonnect.fr/)
 
