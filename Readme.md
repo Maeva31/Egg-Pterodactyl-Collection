@@ -122,6 +122,6 @@ Discord: https://discord.gg/bJ4UjhjUDP
 # Auteur
 - MaEvA  
   - [page GitHub](https://github.com/Maeva31)
-  - [discord](https://discord.gg/bJ4UjhjUDP)
-  - [site personnel](https://maevakonnect.fr)
+  - [Discord](https://discord.gg/bJ4UjhjUDP)
+  - [Site Personnel](https://maevakonnect.fr)
 
