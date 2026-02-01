@@ -16,8 +16,8 @@
 
 # Auteur
 - Max Xie  
-  - [page GitHub](https://github.com/maxxie114)  
-  - [site personnel](https://www.mxpersonal.com/)
+  - [page GitHub](https://github.com/Maeva31)  
+  - [site personnel](https://www.maevakonnect.fr/)
 
 # Licence
 - Sous licence [MIT License](LICENSE).
