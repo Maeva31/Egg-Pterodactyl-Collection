@@ -1,6 +1,3 @@
-pterodactyl-eggs  
-Modification de RedM pour le panel Pterodactyl. Vous pouvez désormais utiliser txAdmin.
-
 # RedM Egg – Pterodactyl
 
 Cet **egg RedM** pour **Pterodactyl** permet d’héberger un serveur **Red Dead Redemption 2 (RedM)** en utilisant les dernières versions du serveur **CFX**.  
@@ -82,7 +79,7 @@ Il est basé sur l’egg officiel maintenu par **parkervcp** et a été adapté 
 TXADMIN_ENABLE=1
 TXADMIN_PORT=40120
 ```
-
+Modification de RedM pour le panel Pterodactyl. Vous pouvez désormais utiliser txAdmin.
 
 ## Auteur
 - MaEvA  
